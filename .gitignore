@@ -1,9 +1,4 @@
 .env
-__pycache__/
+__pycache__
 *.pyc
-*.db
-venv/
-.env.local
-*.log
-.DS_Store
-*.pid
+venv
